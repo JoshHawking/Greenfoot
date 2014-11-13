@@ -5,8 +5,8 @@ import java.awt.Color;
 /**
  * Write a description of class person1 here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Josh Hawking
+ * @version 1.0
  */
 public class person1 extends Actor
 {
